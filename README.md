@@ -1,4 +1,4 @@
-This is a complete, standalone HTML document for an Item Cost Calculator app. It's a single-file web application that includes all the styles, structure, and logic for managing item costs, calculations, and user data.
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
